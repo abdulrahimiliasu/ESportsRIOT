@@ -19,7 +19,7 @@ lastMatch = matches['matches'][0]
 matchDetail = watcher.match.by_id(region, last_match['gameId'])
 
 #Printing Data
-print('user ->:'+user)
+print(user)
 print(userRank)
 print(matches)
 print(lastMatch)
